@@ -10,4 +10,7 @@ function redirect(){
     if (name == "BC2023259" && password == "6392ak"){
         window.location.replace("https://6abhishek.github.io/invertis/");
     }
+    else if (name == "BC2023312" && password == "945743177"{
+        window.location.replace("https://6abhishek.github.io/invertiserp/");
+    }
 }
